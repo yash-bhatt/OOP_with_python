@@ -9,7 +9,7 @@
 ## new one
 ## init method is initialize method...
 ## 
-
+## link to the python module: https://docs.python.org/3/reference/datamodel.html#special-method-names
 class Employee:
 
     def __init__(self, first, last, pay):

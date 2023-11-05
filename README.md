@@ -3,7 +3,7 @@ Learning Object Oriented Programming with Python!
 In this repo I will be saving python notebooks through which I have learnt OOP.
 I learnt all of this from Corey Schafer and his youtube videos: https://www.youtube.com/@coreyms
 
-1. Video 1: Classes and Instances (`https://www.youtube.com/watch?v=ZDa-Z5JzLYM&t=0s`)
+1. Video 1: Classes and Instances [Video 1](`https://www.youtube.com/watch?v=ZDa-Z5JzLYM&t=0s`)
 2. Video 2: Class Variables (`https://www.youtube.com/watch?v=BJ-VvGyQxho&t=0s`)
 3. Video 3: ClassMethods and StaticMethods (`https://www.youtube.com/watch?v=rq8cL2XMM5M&t=0s`)
 4. Video 4: Inheritance, creatign Subclasses (`https://www.youtube.com/watch?v=RSl87lqOXDE&t=0s`)
